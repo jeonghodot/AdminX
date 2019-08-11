@@ -1,3 +1,5 @@
+> **Note:** This will not be developed any further. There are fantastic alternatives to choose from, such as [Tabler.io](https://tabler.io)
+
 # AdminX
 
 [![npm version](https://img.shields.io/npm/v/adminx.svg)](https://www.npmjs.com/package/adminx)
